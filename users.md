@@ -498,7 +498,7 @@
   Bio: Programmer who loves watching Mr.Robot.
   GitHub: [udit-001](https://github.com/udit-001)
 
-- Name: Sibu
-  place: India
-  Bio: Front End developer indeed
-  Github: [sibStephen](https://github.com/sibStephen)
+- Name: Sibu Stephen
+  place: Pune, India
+  Bio: Front End developer indeed.
+  GitHub: [sibStephen](https://github.com/sibStephen)
